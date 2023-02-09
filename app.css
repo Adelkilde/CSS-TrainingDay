@@ -1,0 +1,84 @@
+body {
+  background-color: lemonchiffon;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: blue;
+  text-align: center;
+}
+header {
+  background-color: lightblue;
+  color: red;
+}
+h2 {
+  color: lime;
+  text-align: right;
+}
+p {
+  text-align: left;
+  color: red;
+}
+section {
+  background-color: orange;
+  color: navy;
+}
+#about {
+  background-color: aqua;
+  font-family: monospace;
+  text-align: center;
+}
+
+#cum {
+  text-align: right;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: lightcoral;
+}
+
+#flipflops {
+  text-align: right;
+}
+
+#Hjalte {
+  background-color: goldenrod;
+  color: violet;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: xx-large;
+}
+
+#Big-Shoes {
+  text-align: unset;
+  font-size: xx-small;
+  text-align: center;
+}
+
+#Nerd {
+  background-color: lime;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 1200;
+}
+
+#flipflips,
+#Hjalte {
+  text-align: right;
+}
+
+.codebox {
+  background-color: teal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+nav > ul {
+  list-style-type: none;
+}
+
+nav > li {
+  background-color: darkmagenta;
+}
+
+dd {
+  color: olivedrab;
+  font-weight: bolder;
+  font-size: xx-small;
+}
